@@ -1,0 +1,2 @@
+rootProject.name = "Singly_Linked_List"
+include ':app'
